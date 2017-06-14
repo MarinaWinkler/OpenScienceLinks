@@ -1,5 +1,5 @@
 # OpenScienceLinks
-Collection of links to helpful Open Science resources and tools. Please feel free to add more. 
+Collection of links to helpful Open Science resources and tools with short descriptions. Please feel free to add more. 
 
 # 1. Open Access
   * Are you looking for an Open Access journal in your research field? Search the directory of over 10.000 Open Access journals: [DOAJ](https://doaj.org)
