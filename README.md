@@ -7,19 +7,17 @@ Collection of links to helpful Open Science resources and tools with short descr
   * Find which policy your funder has on sharing your papers: [Sherpa Juliet](http://www.sherpa.ac.uk/juliet/index.php)
   * Search for scientific online repositories, including also information on technical standards and legal aspects: [Re3data](http://www.re3data.org)
   * Search for journals that meet your predefined criteria, like subject, which form of Open Access, what form of review system, review speed: [Cofactor Journal Selector Tool](http://cofactorscience.com/journal-selector)
-  ...
+ 
   
 # 2. Open Data
 
-  * Find which policy your funder has on sharing your data: [Sherpa Juliet](http://www.sherpa.ac.uk/juliet/index.php)
-...  
+  * Find which policy your funder has on sharing your data: [Sherpa Juliet](http://www.sherpa.ac.uk/juliet/index.php) 
 
 
 # 3. Open Source
-...
 
 # 4. Open Education
-...
+
 
 
 
